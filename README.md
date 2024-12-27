@@ -17,4 +17,9 @@ I'm a **Senior Computer Science major** at **Fayetteville State University** wit
 As a child, I was an introvert. But going through college, learning and mentoring others has taught me the power of communication, representation, and collaboration. I aim to lead and contribute meaningfully to any project I undertake.
 
 ## 📫 Let's Connect!
-I'm always looking to collaborate on exciting projects, especially in full-stack development, AI, or STEM education. Feel free to reach out or contribute to my repositories!
+I'm always looking to collaborate on exciting projects, especially in full-stack development, AI, or STEM education.  
+If you're interested in working together or have any questions, feel free to email me directly:  
+
+📧   [codingmaniac227@gmail.com]
+
+Or contribute to my repositories here on GitHub!  
