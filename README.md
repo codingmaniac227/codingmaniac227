@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marquise
+# Hi, I'm Marquise!
 
 I'm a **Senior Computer Science major** at **Fayetteville State University** with a passion for technology, innovation, and empowering the next generation through STEM. From crafting modern web applications to exploring cutting-edge AI and robotics, I thrive on solving challenging problems and building meaningful solutions.
 
